@@ -25,7 +25,13 @@ PASTA_SAIDAS = Path(os.environ.get("PASTA_SAIDAS", Path(__file__).resolve().pare
 SETORES = {"varejo": "COMERCIO_VAREJISTA", "servicos": "SERVICOS"}
 Setor = Literal["varejo", "servicos"]
 
-modelo = joblib.load(PASTA_SAIDAS / "modelo_final.joblib")
+try:
+    modelo = joblib.load(PASTA_SAIDAS / "modelo_final.joblib")
+except (AttributeError, ModuleNotFoundError, ImportError) as erro:
+    raise RuntimeError(
+        "modelo_final.joblib foi salvo com outra versão do scikit-learn. Instale a versão do requirements.txt "
+        "(pip install -r requirements.txt) ou rode o notebook neste ambiente para gerar o modelo de novo."
+    ) from erro
 ranking = pd.read_csv(PASTA_SAIDAS / "ranking_previsao.csv", sep=";", decimal=",", encoding="utf-8-sig")
 
 app = FastAPI(

@@ -3,7 +3,7 @@ numpy>=1.26
 pandas>=2.2
 matplotlib>=3.8
 seaborn>=0.13
-scikit-learn>=1.4
+scikit-learn==1.6.1  # mesma versão do Colab: o modelo salvo (.joblib) só abre na versão em que foi treinado
 openpyxl>=3.1
 joblib>=1.3
 
