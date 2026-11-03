@@ -1,0 +1,55 @@
+﻿setor;uf;mes_base;meses_previstos;probabilidade_alta;previsao;var_anual_real;media_3m
+COMERCIO_VAREJISTA;DF;jun/2026;jul–set/2026;0,882;cresce;7,18;5,35
+COMERCIO_VAREJISTA;PE;jun/2026;jul–set/2026;0,882;cresce;10,36;9,43
+COMERCIO_VAREJISTA;TO;jun/2026;jul–set/2026;0,866;cresce;8,92;9,23
+COMERCIO_VAREJISTA;AC;jun/2026;jul–set/2026;0,862;cresce;6,42;3,66
+COMERCIO_VAREJISTA;BA;jun/2026;jul–set/2026;0,838;cresce;7,17;3,47
+COMERCIO_VAREJISTA;SC;jun/2026;jul–set/2026;0,83;cresce;3,5;3,47
+COMERCIO_VAREJISTA;CE;jun/2026;jul–set/2026;0,814;cresce;3,95;2,81
+COMERCIO_VAREJISTA;RR;jun/2026;jul–set/2026;0,78;cresce;3,51;2,28
+COMERCIO_VAREJISTA;RN;jun/2026;jul–set/2026;0,779;cresce;1,88;2,15
+COMERCIO_VAREJISTA;MA;jun/2026;jul–set/2026;0,747;cresce;4,17;1,48
+COMERCIO_VAREJISTA;PR;jun/2026;jul–set/2026;0,745;cresce;2,18;1,64
+COMERCIO_VAREJISTA;PB;jun/2026;jul–set/2026;0,732;cresce;5,44;0,98
+COMERCIO_VAREJISTA;MS;jun/2026;jul–set/2026;0,707;cresce;3,57;0,52
+COMERCIO_VAREJISTA;SE;jun/2026;jul–set/2026;0,706;cresce;2,2;1,0
+COMERCIO_VAREJISTA;AL;jun/2026;jul–set/2026;0,702;cresce;2,07;1,11
+COMERCIO_VAREJISTA;AP;jun/2026;jul–set/2026;0,696;cresce;2,86;0,78
+COMERCIO_VAREJISTA;RS;jun/2026;jul–set/2026;0,69;cresce;2,25;0,94
+COMERCIO_VAREJISTA;PI;jun/2026;jul–set/2026;0,608;cresce;4,27;-0,3
+COMERCIO_VAREJISTA;ES;jun/2026;jul–set/2026;0,59;cresce;3,53;-0,42
+COMERCIO_VAREJISTA;MT;jun/2026;jul–set/2026;0,552;cresce;0,48;0,35
+COMERCIO_VAREJISTA;SP;jun/2026;jul–set/2026;0,524;cresce;0,74;-0,78
+COMERCIO_VAREJISTA;MG;jun/2026;jul–set/2026;0,519;cresce;1,37;-0,98
+COMERCIO_VAREJISTA;PA;jun/2026;jul–set/2026;0,508;cresce;1,88;-1,0
+COMERCIO_VAREJISTA;RJ;jun/2026;jul–set/2026;0,506;cresce;0,97;-1,4
+COMERCIO_VAREJISTA;GO;jun/2026;jul–set/2026;0,495;não cresce;-0,15;-0,08
+COMERCIO_VAREJISTA;RO;jun/2026;jul–set/2026;0,495;não cresce;-0,01;-0,33
+COMERCIO_VAREJISTA;AM;jun/2026;jul–set/2026;0,434;não cresce;0,45;-1,02
+SERVICOS;SE;jul/2026;ago–out/2026;0,888;cresce;6,73;7,92
+SERVICOS;AP;jul/2026;ago–out/2026;0,886;cresce;15,03;13,18
+SERVICOS;RN;jul/2026;ago–out/2026;0,883;cresce;11,24;4,7
+SERVICOS;DF;jul/2026;ago–out/2026;0,88;cresce;7,55;8,02
+SERVICOS;BA;jul/2026;ago–out/2026;0,88;cresce;12,25;10,71
+SERVICOS;RR;jul/2026;ago–out/2026;0,878;cresce;4,58;7,49
+SERVICOS;PB;jul/2026;ago–out/2026;0,877;cresce;4,6;4,35
+SERVICOS;AC;jul/2026;ago–out/2026;0,876;cresce;4,31;15,57
+SERVICOS;ES;jul/2026;ago–out/2026;0,874;cresce;8,31;5,66
+SERVICOS;PI;jul/2026;ago–out/2026;0,857;cresce;6,19;2,99
+SERVICOS;SP;jul/2026;ago–out/2026;0,837;cresce;2,24;3,68
+SERVICOS;PE;jul/2026;ago–out/2026;0,817;cresce;2,8;3,24
+SERVICOS;SC;jul/2026;ago–out/2026;0,816;cresce;2,67;3,55
+SERVICOS;RJ;jul/2026;ago–out/2026;0,783;cresce;3,86;2,32
+SERVICOS;AL;jul/2026;ago–out/2026;0,723;cresce;0,87;1,82
+SERVICOS;MG;jul/2026;ago–out/2026;0,711;cresce;1,9;1,04
+SERVICOS;PA;jul/2026;ago–out/2026;0,707;cresce;1,4;1,22
+SERVICOS;RO;jul/2026;ago–out/2026;0,655;cresce;-3,29;7,62
+SERVICOS;RS;jul/2026;ago–out/2026;0,634;cresce;0,76;0,0
+SERVICOS;PR;jul/2026;ago–out/2026;0,623;cresce;0,43;0,93
+SERVICOS;GO;jul/2026;ago–out/2026;0,609;cresce;-0,77;1,78
+SERVICOS;CE;jul/2026;ago–out/2026;0,607;cresce;1,23;0,06
+SERVICOS;MA;jul/2026;ago–out/2026;0,572;cresce;2,08;-0,79
+SERVICOS;AM;jul/2026;ago–out/2026;0,526;cresce;5,18;-1,44
+SERVICOS;MT;jul/2026;ago–out/2026;0,388;não cresce;-3,03;-1,85
+SERVICOS;MS;jul/2026;ago–out/2026;0,315;não cresce;-6,61;-0,91
+SERVICOS;TO;jul/2026;ago–out/2026;0,219;não cresce;-5,86;-5,53

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# gerados pelos scripts da coleta (o notebook usa só o xlsx bruto)
+dados/*.csv
+dados/dados_preparados_*.xlsx
+coleta/graficos/
