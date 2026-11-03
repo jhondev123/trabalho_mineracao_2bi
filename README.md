@@ -7,6 +7,8 @@ Trabalho da disciplina de **Mineração de Dados** — 2º bimestre · metodolog
 
 **Integrantes:** Jhonattan Curtarelli · _(adicionar os demais integrantes)_
 
+> Vai continuar o trabalho? Comece por [CONTEXTO.md](CONTEXTO.md): decisões, cuidados e o que falta para a entrega.
+
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhondev123/trabalho_mineracao_2bi/blob/main/trabalho_mineracao_dados.ipynb)
 
 ## O problema
@@ -129,6 +131,7 @@ IPCA, dólar e Selic são nacionais. Referências em ABNT em [docs/fontes.md](do
 
 ```
 trabalho_mineracao_2bi/
+├── CONTEXTO.md                      # contexto para quem for continuar: decisões, cuidados e pendências
 ├── trabalho_mineracao_dados.ipynb   # o trabalho: do dado bruto ao ranking (abre no Colab)
 ├── dados/
 │   └── dados_brutos_20260914.xlsx   # dados como vieram das APIs, uma aba por fonte
@@ -136,10 +139,11 @@ trabalho_mineracao_2bi/
 ├── api/
 │   └── main.py                      # API FastAPI com o modelo final
 ├── coleta/                          # scripts do 1º bimestre: coleta nas APIs do IBGE e do Banco Central
-├── artigo/                          # rascunho do artigo no modelo da disciplina
+├── artigo/                          # rascunho do artigo, pendências (LEIA-ME.md) e modelo da disciplina
 ├── docs/
 │   ├── crisp.md                     # o que foi feito em cada fase
 │   ├── guia.md                      # glossário dos termos técnicos
-│   └── fontes.md                    # fontes e referências (ABNT)
+│   ├── fontes.md                    # fontes e referências (ABNT)
+│   └── apresentacao_seminario_1bi.pptx  # apresentação do seminário do 1º bimestre
 └── requirements.txt
 ```

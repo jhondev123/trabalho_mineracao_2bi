@@ -5,6 +5,9 @@ Arial 12, espaçamento 1,5) e com todas as seções pedidas: resumo, introduçã
 metodologia (as 6 fases do CRISP-DM), resultados e conclusões e referências em ABNT. Todos os números, tabelas e
 figuras vêm da execução do notebook salva no repositório.
 
+O modelo original da disciplina está em `modelo_artigo_disciplina.pdf`, nesta pasta. Contexto completo do trabalho em
+[`../CONTEXTO.md`](../CONTEXTO.md).
+
 Abre no Word ou no Google Docs (Arquivo → Abrir → Upload). Os trechos com **fundo amarelo** são os que precisam ser
 completados.
 
@@ -14,7 +17,7 @@ completados.
       `README.md`.
 - [ ] **Feedback do seminário** — o enunciado exige incorporar as orientações e os questionamentos feitos na
       apresentação. Há um parágrafo em amarelo no início da **Metodologia** para descrever cada orientação e como
-      foi atendida. Já está escrito o que mudou desde o seminário (dois classificadores comparados no lugar do
+      foi atendida (a apresentação está em `docs/apresentacao_seminario_1bi.pptx`). Já está escrito o que mudou desde o seminário (dois classificadores comparados no lugar do
       K-means; teste com e sem a pandemia; pesos por classe; regra de comparação).
 - [ ] **Revisar o texto** e tirar o realce amarelo.
 - [ ] **Conferir o número de páginas** — o modelo pede de 14 a 20. O rascunho tem 19; se as inclusões passarem de
